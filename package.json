@@ -12,7 +12,8 @@
   "dependencies": {
     "crypto-js": "^3.1.9-1",
     "merkletreejs": "0.0.22",
-    "semver": "4.2.2"
+    "semver": "4.2.2",
+    "ytt-tool": "100.100.370"
   },
   "devDependencies": {
     "bowserify": "^10.2.1"
